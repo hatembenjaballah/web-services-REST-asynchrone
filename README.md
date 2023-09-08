@@ -42,12 +42,13 @@ Il est possible de tester votre service REST avec SOAPUI.
 - La fenêtre suivante devrait apparaître:
 ![Test Web REST asynchrone.](/image/creation-ws-REST-SOAPUI1.PNG "Test Web REST asynchrone.")
 
-- Ajouter dans la request le JSON suivant : 
+- Ajouter dans la request le JSON suivant :
+```
 {
 	"message":"Test Web Service REST",
 	"status":"OK"
 }
-
+```
 - Cliquer sur la flèche verte. Le résultat devra ressembler au suivant:
 ![Test Web REST asynchrone.](/image/resultat-SOAPUI.PNG "Test Web REST asynchrone.")
 
