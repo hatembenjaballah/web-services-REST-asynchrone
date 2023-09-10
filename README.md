@@ -49,7 +49,7 @@ Il est possible de tester votre service REST avec SOAPUI.
 	"status":"OK"
 }
 ```
-- Cliquer sur la flèche verte. Le résultat devra ressembler au suivant:
+- Cliquer sur la flèche verte. Le résultat devra ressembler au suivant, le resultat sera toujours "#status#	HTTP/1.1 202 Accepted":
 ![Test Web REST asynchrone.](/image/resultat-SOAPUI.PNG "Test Web REST asynchrone.")
 
 Lorsqu'on retourne sur le Talend 
