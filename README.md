@@ -54,3 +54,7 @@ Il est possible de tester votre service REST avec SOAPUI.
 
 Lorsqu'on retourne sur le Talend 
 ![Test Web REST asynchrone.](/image/result-ws_async_exemple.PNG "Test Web REST asynchrone.")
+
+l'action dans talend :
+- attendre 5 secondes si aucune erreur n'est détectée.
+- attendre 10 secondes si le JSON envoyé est erroné.
